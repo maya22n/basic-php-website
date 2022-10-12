@@ -26,3 +26,7 @@ include("inc/header.php"); ?>
 		</div>
 
 <?php include("inc/footer.php"); ?>
+hbfdhjdfj
+hjdjhjf
+jkej
+kdfl
